@@ -1,0 +1,6 @@
+{
+  "name": "DeadlineAI",
+  "description": "Never Miss a Deadline Again. DeadlineAI is an intelligent AI Productivity Companion that plans, prioritizes, motivates, and guides users to complete tasks before deadlines.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
